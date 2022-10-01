@@ -6,3 +6,12 @@
 ## FRONT END: Tkinter (Python)
 ## SERVER-SIDE SCRIPT: Python
 ## DATABASE: sqlite
+
+## Screenshots:
+# Login page
+![Login](images/login-1.jpg)
+# Main Menu
+![Main menu](images/menu.jpg)
+# Registration form
+![RegForm](images/form.jpg)
+
